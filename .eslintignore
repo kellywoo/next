@@ -1,0 +1,10 @@
+dist/*
+node_modules
+config/*
+build/*
+public/*
+.next/*
+scripts/*
+setupTests.ts
+babel.config.js
+next-env.d.ts
